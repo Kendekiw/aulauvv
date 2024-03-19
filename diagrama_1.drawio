@@ -1,0 +1,76 @@
+<mxfile host="app.diagrams.net" modified="2024-03-15T10:36:34.583Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="fDeHPlC4HrVzKrYrRpSg" version="24.0.7" type="device">
+  <diagram name="Página-1" id="RmTAvpR1D3Jd8Oa9Ot4g">
+    <mxGraphModel dx="1035" dy="553" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Bau40-lPszCIiwL-etAr-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="70" width="500" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="Bau40-lPszCIiwL-etAr-2" value="header" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="70" width="500" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Bau40-lPszCIiwL-etAr-3" value="&lt;b&gt;imagem&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="150" y="5" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Bau40-lPszCIiwL-etAr-4" value="&lt;b&gt;nome&lt;/b&gt;&lt;div&gt;&lt;b&gt;informaçoes&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="340" y="15" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Bau40-lPszCIiwL-etAr-5" value="footer" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="70" y="460" width="500" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Bau40-lPszCIiwL-etAr-6" value="&lt;b&gt;links&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="130" y="460" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Bau40-lPszCIiwL-etAr-8" value="&lt;b&gt;baixar-curriculo&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="400" y="460" width="85" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Bau40-lPszCIiwL-etAr-11" value="main" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="70" y="90" width="500" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="Bau40-lPszCIiwL-etAr-12" value="&lt;b&gt;perfil&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="70" y="120" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Bau40-lPszCIiwL-etAr-13" value="&lt;b&gt;formação acadêmica&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="180" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Bau40-lPszCIiwL-etAr-14" value="&lt;b&gt;qualificações&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="70" y="240" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Bau40-lPszCIiwL-etAr-15" value="&lt;b&gt;experiências&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="300" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Bau40-lPszCIiwL-etAr-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="70" y="90" width="500" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Bau40-lPszCIiwL-etAr-17" value="menu" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="110" y="90" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Bau40-lPszCIiwL-etAr-18" value="home" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="265" y="90" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Bau40-lPszCIiwL-etAr-19" value="portfólio" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="450" y="90" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Bau40-lPszCIiwL-etAr-20" value="&lt;b&gt;contato&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="70" y="360" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Bau40-lPszCIiwL-etAr-21" value="efeitinhos wow&lt;div&gt;(imagens ou seila)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Bau40-lPszCIiwL-etAr-22" value="efeitinhos wow&lt;div&gt;(imagens ou seila)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Bau40-lPszCIiwL-etAr-23" value="efeitinhos wow&lt;div&gt;(imagens ou seila)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Bau40-lPszCIiwL-etAr-24" value="efeitinhos wow&lt;div&gt;(imagens ou seila)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="360" width="240" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Bau40-lPszCIiwL-etAr-25" value="efeitinhos wow&lt;div&gt;(imagens ou seila)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
