@@ -1,0 +1,31 @@
+#info{
+    background-color: red;
+    display: flex;
+
+}
+
+#info p{
+    margin: 10px;
+    align-content: center;
+}
+
+#info img{
+    width: 100px;
+    height: 100px;
+    border-radius: 60px;
+}
+
+#bar{
+    background-color: orange;
+}
+
+.esq{
+    background-color: wheat;
+}
+.dir{
+    background-color: royalblue;
+}
+
+footer {
+    background-color: mediumturquoise;
+}
